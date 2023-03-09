@@ -1,3 +1,5 @@
+# Note: In the Table.tsx file call to the server is made. Please provide the IP address of the running server in the placeholder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
